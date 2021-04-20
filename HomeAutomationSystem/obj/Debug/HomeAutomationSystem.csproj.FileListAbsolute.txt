@@ -1,0 +1,13 @@
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\HomeAutomationSystem.exe.config
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\HomeAutomationSystem.exe
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\HomeAutomationSystem.pdb
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.Form1.resources
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.Home.resources
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.LeftMenu.resources
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.Login.resources
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.Properties.Resources.resources
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.csproj.GenerateResource.cache
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.exe
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.pdb
+C:\Users\Kali\source\repos\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\HomeAutomationSystem.csprojAssemblyReference.cache
